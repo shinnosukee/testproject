@@ -1,0 +1,11 @@
+/Users/lidiabun/Desktop/proyek/quiz_09092019/obj/Debug/netcoreapp2.2/quiz_09092019.csprojAssemblyReference.cache
+/Users/lidiabun/Desktop/proyek/quiz_09092019/obj/Debug/netcoreapp2.2/quiz_09092019.csproj.CoreCompileInputs.cache
+/Users/lidiabun/Desktop/proyek/quiz_09092019/obj/Debug/netcoreapp2.2/quiz_09092019.AssemblyInfoInputs.cache
+/Users/lidiabun/Desktop/proyek/quiz_09092019/obj/Debug/netcoreapp2.2/quiz_09092019.AssemblyInfo.cs
+/Users/lidiabun/Desktop/proyek/quiz_09092019/bin/Debug/netcoreapp2.2/quiz_09092019.deps.json
+/Users/lidiabun/Desktop/proyek/quiz_09092019/bin/Debug/netcoreapp2.2/quiz_09092019.runtimeconfig.json
+/Users/lidiabun/Desktop/proyek/quiz_09092019/bin/Debug/netcoreapp2.2/quiz_09092019.runtimeconfig.dev.json
+/Users/lidiabun/Desktop/proyek/quiz_09092019/bin/Debug/netcoreapp2.2/quiz_09092019.dll
+/Users/lidiabun/Desktop/proyek/quiz_09092019/bin/Debug/netcoreapp2.2/quiz_09092019.pdb
+/Users/lidiabun/Desktop/proyek/quiz_09092019/obj/Debug/netcoreapp2.2/quiz_09092019.dll
+/Users/lidiabun/Desktop/proyek/quiz_09092019/obj/Debug/netcoreapp2.2/quiz_09092019.pdb

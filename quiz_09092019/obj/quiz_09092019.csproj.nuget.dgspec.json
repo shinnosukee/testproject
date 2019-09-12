@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/lidiabun/Desktop/proyek/quiz_09092019/quiz_09092019.csproj": {}
+  },
+  "projects": {
+    "/Users/lidiabun/Desktop/proyek/quiz_09092019/quiz_09092019.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lidiabun/Desktop/proyek/quiz_09092019/quiz_09092019.csproj",
+        "projectName": "quiz_09092019",
+        "projectPath": "/Users/lidiabun/Desktop/proyek/quiz_09092019/quiz_09092019.csproj",
+        "packagesPath": "/Users/lidiabun/.nuget/packages/",
+        "outputPath": "/Users/lidiabun/Desktop/proyek/quiz_09092019/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/lidiabun/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
